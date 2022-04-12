@@ -1,0 +1,11 @@
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\bin\Debug\BANHANG.exe.config
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\bin\Debug\BANHANG.exe
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\bin\Debug\BANHANG.pdb
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.csproj.AssemblyReference.cache
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.csproj.SuggestedBindingRedirects.cache
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.Form1.resources
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.Properties.Resources.resources
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.csproj.GenerateResource.cache
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.csproj.CoreCompileInputs.cache
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.exe
+C:\Users\amvnd\source\repos\BANHANG\BANHANG\obj\Debug\BANHANG.pdb
